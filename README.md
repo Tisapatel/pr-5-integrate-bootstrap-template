@@ -26,9 +26,8 @@ It is ideal for learning Bootstrap layout structure, responsiveness, and real-wo
 - CSS3  
 - Bootstrap 5  
 - JavaScript (if applicable)
-
-## 📂 Project Structure
 ```
+## 📂 Project Structure
 project-folder/
 │
 ├── index.html
