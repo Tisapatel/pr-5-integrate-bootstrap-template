@@ -9,7 +9,7 @@ It is ideal for learning Bootstrap layout structure, responsiveness, and real-wo
 👉 https://pr-5-integrate-bootstrap-template.vercel.app/
 
 ## 🖼️ Screenshot
-![Homepage Screenshot](./assets/Screenshot.png)
+![Homepage Screenshot](./src/assets/Screenshot.png)
 
 ```
 
