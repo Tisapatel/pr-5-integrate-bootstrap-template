@@ -27,16 +27,6 @@ It is ideal for learning Bootstrap layout structure, responsiveness, and real-wo
 - Bootstrap 5  
 - JavaScript (if applicable)
 ```
-## 📂 Project Structure
-project-folder/
-│
-├── index.html
-├── assets/
-│   ├── css/
-│   ├── js/
-│   └── images/
-├── README.md
-```
 
 ## ⚙️ How to Run Locally
 1. Clone the repository:
